@@ -22,7 +22,7 @@ hosts ファイル (インベントリ) 中に JBoss EAP, PostgreSQL, Jenkins �
 ### JBoss EAP アーカイブファイルの配置
 
 以下のリンクから JBoss EAP 7.0.0.GA の ZIP ファイルを入手し、roles/jboss-eap/copy/files ディレクトリに同 ZIP ファイルを配置する。
-https://access.redhat.com/jbossnetwork/restricted/softwareDetail.html?softwareId=43891&product=appplatform&version=7.0&downloadType=distributions　[要サブスクリプション]
+https://access.redhat.com/jbossnetwork/restricted/softwareDetail.html?softwareId=43891&product=appplatform&version=7.0&downloadType=distributions
 
 ## 1. 疎通確認
 
